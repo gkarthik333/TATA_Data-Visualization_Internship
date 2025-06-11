@@ -29,6 +29,7 @@ This dashboard is divided into two sections as Revenue analysis and Quantity ana
 
 ## 💠 Data Source
 Online Retail Data : This data is from Virtual Internship on Forage from Tata Group on "Data Visualization: Empowering Business with Effective Insights".
+<a href="https://github.com/gkarthik333/TATA_Data-Visualization_Internship/blob/main/Online%20Retail%20Data%20Set.xlsx">Data set</a>
 
 ## 💠 Tools
 Excel - Data Cleaning

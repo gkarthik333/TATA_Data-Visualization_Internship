@@ -5,8 +5,8 @@
 
 ✅ Here's what I discovered:
 
-✤ Task 1- Framing Buisness Scenarios
-I was provided with a dataset from an "online retail store Data" and learned how to analyze the data and frame impactful questions for the CEO and CMO. This exercise enhanced my data analysis and question formulation skills.
+✤ Task 1 - Framing Business Scenarios
+Provided with an "online retail store" dataset, I focused on analyzing its contents to anticipate strategic concerns. This involved developing and framing impactful, data-driven questions specifically tailored for a CEO and a CMO. This exercise significantly enhanced my ability to connect raw data with high-level business objectives and formulate precise inquiries to guide further analysis.
 
 ✤ Task 2- Choosing the Right Visuals
 Through multiple-choice questions, I gained knowledge on selecting appropriate graphs and charts that effectively represent data. This helped me understand the importance of visualizing data accurately.
@@ -22,64 +22,58 @@ I identified areas for improvement and effectively conveying findings and insigh
 ![Quantity](https://github.com/user-attachments/assets/eb31acb3-4b6c-40ba-a4b9-9e68075ab701)
 <br><br>
 
-💠 Project Overview
+## 💠 Project Overview
 The project involved gathering business requirements from stakeholders, pre-processing the dataset, and creating a data visualization with business intelligence requirements.
 
 This dashboard is divided into two sections as Revenue analysis and Quantity analysis. This helps to analyze the overall data in two different perspective.
 
-💠 Data Source
+## 💠 Data Source
 Online Retail Data : This data is from Virtual Internship on Forage from Tata Group on "Data Visualization: Empowering Business with Effective Insights".
 
-💠 Tools
+## 💠 Tools
 Excel - Data Cleaning
 
 PowerBI- Creating Dashboards, Data Visualization
 
-💠 Project dashboard includes:-
+## 💠 Project dashboard includes:-
 Project Dashboard Includes :
 
 Sheet 1 : Details of Revenue
 
 Sheet 2 : Details of Quantity sold
 
-💠 Data Preparation
+## 💠 Data Preparation
 In the initial data preparation phase, we performed the following tasks:
 
 Data loading and inspection.
 Handling missing values.
 Data cleaning and formatting
+
 💠 Insights :-
-➤ Analyzing the entire data, the online retail business has gained 9.66M revenue, 4.328K customers and has 3.85k products.
+➤ Analyzing the entire data, the online retail business has gained  `14.27 Trillions revenue` , `4,373 customers` and has `407k Orders`.
 
 1] 𝐒𝐞𝐚𝐬𝐨𝐧𝐚𝐥 𝐓𝐫𝐞𝐧𝐝𝐬 :
 
-The data shows that, the revenue in the first 8 months is fairly constant, as the average revenue generated for these 8 months is around $622k. The increase in revenue starts in the month of September.
+* The data reveals that revenue remains relatively stable for the `first three quarters` of the year, from January through August. The average monthly revenue during this period is approximately `$1.15 billion`.
 
-This trend continues till the month of November where it reached 1.37 million USD, the highest during the entire year.
+* A significant increase in revenue commences in September, continuing to an extraordinary peak in `October`, reaching `$5.65 billion`. While revenue drops in November ($3.39 billion) and December ($1 billion) from this peak, these months still demonstrate substantially higher sales than the preceding eight months.
 
-This analysis shows, that the retail store sales are impacted by the seasonality which usually occurs in the last 4 months of the year.
+* This analysis strongly indicates that the retail store's sales are heavily impacted by seasonality, with a pronounced surge typically occurring in the final four months of the year, culminating in a `dominant October performance`.
 
 2]𝐂𝐨𝐮𝐧𝐭𝐫𝐲 𝐰𝐢𝐬𝐞 𝐫𝐞𝐯𝐞𝐧𝐮𝐞 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬 :
 
 The visual shows how the top 10 countries which have opportunities for growth are performing.
 
-The analysis shows that, countries such as the Netherlands, Ireland, Germany and France have high volumes of units bought and revenue generated.
+The analysis shows that, countries such as the Eire, France, Germany and Netherland have high volumes of units bought and revenue generated.
 
 3] 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 :
 
-The analysis shows that, there is not much of a difference between the purchases made by the top 10 customers.
+* Revenue is heavily concentrated among the top customers, with the top two (IDs 14911 and 14646) generating overwhelmingly larger amounts ($2500.85M and $1066.49M, respectively).
+* There's a steep drop in revenue contribution after the top two, indicating a strong power-law distribution where a few customers drive most of the sales.
+* The remaining customers in the top 10 contribute significantly less, with the 10th customer generating only $14.62M, highlighting the importance of the very high-value customers.
 
-The highest revenue generating customer only purchased 7% more than the 2nd highest which shows that the business is not relying only on a few customers to generate the revenue.
 
-This shows that, the bargaining power of customers is low and the business is in a good position.
-
-4] 𝐑𝐞𝐠𝐢𝐨𝐧𝐚𝐥 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 :
-
-It can be seen that, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products.
-
-Africa and Asia do not have any demand for the products, along with Russia.
-
-= - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = -
+= - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = 
 
 ► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
 
@@ -107,4 +101,4 @@ Acquired skills in conveying insights clearly and persuasively, enhancing commun
 
 Positioned for success with practical skills applicable across industries.
 
-✅ Thanks to Forage and TATA for giving me this incredible opportunity to work on amazing datasets and build data visualization reports and KPI visualizations.✨
+🙇 Thanks to Forage and TATA for giving me this incredible opportunity to work on amazing datasets and build data visualization reports and KPI visualizations.✨

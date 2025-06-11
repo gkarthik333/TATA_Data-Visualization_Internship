@@ -17,12 +17,13 @@ I delved into Power-BI and explored various techniques to craft captivating dash
 ✤ Task 4- Communicating Insights & Analysis
 I identified areas for improvement and effectively conveying findings and insights. This project emphasized the importance of clear communication in data visualization.
 
+<br><br>
 ![Revenue](https://github.com/user-attachments/assets/da528fae-358c-4bdb-a7bf-6e3aaed0e3ec)
-<br><br>
-<br><br>
-<br><br>
-![Quantity](https://github.com/user-attachments/assets/eb31acb3-4b6c-40ba-a4b9-9e68075ab701)
 
+<br><br>
+
+![Quantity](https://github.com/user-attachments/assets/eb31acb3-4b6c-40ba-a4b9-9e68075ab701)
+<br><br>
 
 Online Retail Store Analysis
 Screenshot 2024-02-07 220946

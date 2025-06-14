@@ -1,4 +1,4 @@
-# TATA (Data - Visualization) Virtual Internship
+# <h1 align="center">  TATA (Data - Visualization) Virtual Internship</h1>
 ➼ During this internship program, I consolidated and visualized sales, customer, and inventory data, resulting in a 20% increase in sales through data-driven promotional strategies.
 
 ➼ By analyzing customer behavior and purchase patterns, I identified key segments and optimized marketing efforts, leading to a 15% improvement in customer retention rates. Additionally, the interactive dashboards provided real-time insights into inventory levels, reducing stockouts by 25% and improving overall supply chain efficiency.

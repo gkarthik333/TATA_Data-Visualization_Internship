@@ -73,10 +73,10 @@ The analysis shows that, countries such as the Eire, France, Germany and Netherl
 * There's a steep drop in revenue contribution after the top two, indicating a strong power-law distribution where a few customers drive most of the sales.
 * The remaining customers in the top 10 contribute significantly less, with the 10th customer generating only $14.62M, highlighting the importance of the very high-value customers.
 
-
+<br><br>
 # = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - =
 <br><br>
-<br><br>
+
 
 ► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
 

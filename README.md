@@ -75,6 +75,10 @@ The analysis shows that, countries such as the Eire, France, Germany and Netherl
 
 
 # = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - =
+
+
+
+
 ► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
 
 ✅ 𝑫𝒂𝒕𝒂 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑴𝒂𝒔𝒕𝒆𝒓𝒚 :

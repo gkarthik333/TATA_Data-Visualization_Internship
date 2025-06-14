@@ -74,7 +74,7 @@ The analysis shows that, countries such as the Eire, France, Germany and Netherl
 * The remaining customers in the top 10 contribute significantly less, with the 10th customer generating only $14.62M, highlighting the importance of the very high-value customers.
 
 
-# = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = 
+# = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = = - = =
 ► During this program, I strengthened my Power BI skills to better understand clients and their data visualization needs :-
 
 ✅ 𝑫𝒂𝒕𝒂 𝑽𝒊𝒔𝒖𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝑴𝒂𝒔𝒕𝒆𝒓𝒚 :

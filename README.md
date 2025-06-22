@@ -39,9 +39,9 @@ Online Retail Data : This data is from Virtual Internship on Forage from Tata Gr
 ## 💠 Project dashboard includes:-
 Project Dashboard Includes :
 
-Sheet 1 : Details of Revenue
+- Sheet 1 : Details of Revenue
 
-Sheet 2 : Details of Quantity sold
+- Sheet 2 : Details of Quantity sold
 
 ## 💠 Data Preparation
 In the initial data preparation phase, we performed the following tasks:

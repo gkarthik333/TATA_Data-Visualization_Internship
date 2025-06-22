@@ -32,9 +32,9 @@ Online Retail Data : This data is from Virtual Internship on Forage from Tata Gr
 <a href="https://github.com/gkarthik333/TATA_Data-Visualization_Internship/blob/main/Online%20Retail%20Data%20Set.xlsx">Data set</a>
 
 ## 💠 Tools
-Excel - Data Cleaning
+- Excel - Data Cleaning
 
-PowerBI- Creating Dashboards, Data Visualization
+- PowerBI- Creating Dashboards, Data Visualization
 
 ## 💠 Project dashboard includes:-
 Project Dashboard Includes :
